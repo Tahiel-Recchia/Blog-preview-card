@@ -1,0 +1,25 @@
+*{
+    font-family: "Outfit", serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    display: grid;
+    height: 100vh;
+    width: 100%;
+    background-color: #F4D04E;
+}
+
+.previewContainer{
+    height: 27rem;
+    width: 20rem;
+    align-self: center;
+    justify-self: center;
+    border: 1px solid #111111;
+    border-radius: 1rem;
+    background-color: #FFF;
+    box-shadow: 0.5rem 0.5rem #111111;
+    padding: 1rem;
+}
