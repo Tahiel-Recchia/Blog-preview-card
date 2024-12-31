@@ -106,3 +106,15 @@ h1:hover{
     height: 2rem;
     width: 2rem;
 }
+
+@media (max-width: 375px) {
+    .previewContainer{
+        width: 90%;
+        height: fit-content;
+    }
+
+h1{
+    font-size: 22px;
+}
+
+}
