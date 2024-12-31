@@ -90,6 +90,11 @@ h1{
     font-weight: 800;
 }
 
+h1:hover{
+    color: #F4D04E;
+    cursor: pointer;
+}
+
 .pictureContainer{
     display: flex;
     flex-direction: row;
